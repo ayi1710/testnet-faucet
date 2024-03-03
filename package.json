@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blockai/testnet-faucet.git"
+    "url": "git+https://github.com/ayi1710/testnet-faucet.git"
   },
   "keywords": [
     "testnet",
     "bitcoin",
     "faucet"
   ],
-  "author": "Olivier Lalonde <olalonde@gmail.com>",
+  "author": "Ayi Tahu <ayi1710@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/blockai/testnet-faucet/issues"
+    "url": "https://github.com/ayi1710/testnet-faucet/issues"
   },
-  "homepage": "https://github.com/blockai/testnet-faucet#readme",
+  "homepage": "https://github.com/ayi1710/testnet-faucet#readme",
   "dependencies": {
     "async": "^2.0.0-rc.4",
     "cb-http-client": "^0.2.3",
